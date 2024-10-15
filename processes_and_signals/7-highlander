@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
-# This bash script will dipslays "To infinity and beyond" indefinitely and "I amd invincible !!!"when receiving a SIGTERM signal and between each iteration sleep 2 sec.
-file="I am invincible!!!"
+# This bash script will dipslays "To infinity and beyond" indefinitely and "I amd inevitable !!!"when receiving a SIGTERM signal and between each iteration sleep 2 sec.
+file="I am inevitable!!!"
 while :
 do
 echo "To infinity and beyond";
